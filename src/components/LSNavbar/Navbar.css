@@ -1,0 +1,52 @@
+.topbar1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.topbarWrapper1{
+    flex: 1;
+    margin: 0px 20px ;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px -10px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 0px 15px -10px rgba(0,0,0,0.75);
+
+
+}
+.topRight{
+    display: flex;
+    align-items: center;
+}
+.featuredTitle1{
+    font-size: 20px;
+    justify-content: space-between;
+    margin-left: 46px;
+}
+#input-with-icon-textfield{
+    margin-left: 4px;
+}
+#standard-search{
+    display: flex;
+}
+.logo{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(55, 88, 6);
+    cursor: pointer;
+
+}
+.topbarIconContainer{
+    position: relative;
+    cursor: pointer;
+   
+    
+}
+.s{
+    color: rgb(55, 88, 6);
+    
+}
+.s1{
+    color: rgb(55, 88, 6);
+    margin-left: 10px;
+}
